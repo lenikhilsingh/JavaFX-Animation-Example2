@@ -1,0 +1,9 @@
+#rootPane{
+    -fx-background-image: url("stephanie-krist-423959.jpg");
+}
+#btn :hover{
+    -fx-background-color: magenta;
+    -fx-background-radius:90px;
+    -fx-border-width: 5px;
+    -fx-border-color: fuchsia;
+}
